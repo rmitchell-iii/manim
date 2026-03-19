@@ -166,7 +166,7 @@ With our circle animation complete, let's move on to something a little more com
 
 .. code-block:: bash
 
-   manim -pql scene.py SquareToCircle
+   manim -pql main.py SquareToCircle
 
 The following animation will render:
 
